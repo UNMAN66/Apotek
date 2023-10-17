@@ -1,0 +1,10 @@
+Siladex#Obat Batuk#20000
+Woods#Obat Batuk#25000
+OBH#Obat Batuk#30000
+Bodrex#Obat Batuk#7500
+Komix#Obat Batuk#2500
+Decolgen#Obat Batuk#6000
+Entrostop#Obat Maag#5000
+Promag#Obat Maag#5000
+Mylanta#Obat Maag#5000
+Panadol#Obat Pusing#8000
